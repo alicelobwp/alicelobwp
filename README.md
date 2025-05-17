@@ -1,6 +1,8 @@
+<p float="left">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a7259c&random=false&width=499&height=40&lines=Hey%2F+I'm+Mariah+Alice" alt="Typing SVG" /></a>
+    <samp>
+      <p float="left">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#ec5c8d&color:1)](https://www.linkedin.com/in/mariah-alice-pereira-b994ba327/)
-[![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=#ec5c8d&color:1)](loboalicepereira@gmail.com)
 
 
 ![Alicelobwp's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelobwp&theme=omni&show_icons=true)
@@ -13,3 +15,6 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#ec5c8d&color:1)](https://www.linkedin.com/in/mariah-alice-pereira-b994ba327/)
+[![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=#ec5c8d&color:1)](loboalicepereira@gmail.com)
