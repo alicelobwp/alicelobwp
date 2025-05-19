@@ -1,5 +1,5 @@
 <p float="left">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a21048&random=false&width=499&height=40&lines=Hey%2F+I'm+Mariah+Alice" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=a21048&random=false&width=499&height=40&lines=Oie%2F+me+chamo+Mariah+Alice" alt="Typing SVG" /></a>
     <samp>
       <p float="left">
 
