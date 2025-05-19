@@ -5,7 +5,7 @@
 
 
 
-![Alicelobwp's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelobwp&theme=omni&show_icons=true)
+![Alicelobwp's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelobwp&theme=swift&show_icons=true)
 ![](https://github-readmestats.vercel.app/api/pin?username=alicelobwp&repo=github-read-me-stats&cache-seconds86400&theme=swift)
 
 
