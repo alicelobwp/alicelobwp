@@ -3,7 +3,7 @@
     <samp>
       <p float="left">
 
-<samp> Estudo ciência da computação, sou apaixonada pela área de cibersegurança, mexo atualmente com HTML, CSS, JS e Python. <samp>
+<samp> Estudo ciência da computação, sou apaixonada pela área de cloud, mexo atualmente com HTML, CSS, JS e Python. No momento estou fazendo alguns projetos para melhorar meu perfil e estou estudando Java e #C <samp>
 
 
 
