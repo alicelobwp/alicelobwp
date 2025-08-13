@@ -3,7 +3,7 @@
     <samp>
       <p float="left">
 
-<samp> Estudo ciência da computação, sou apaixonada pela área de cloud, mexo atualmente com C#, JS, Python e SQL. No momento estou fazendo alguns projetos para aprimorar meu conhecimento e estou estudando Java, <samp>
+<samp> Estudo ciência da computação, sou apaixonada pela área de cloud(ando estudando um pouco para tentar obter certificações e entrar para a área), mexo atualmente com C#, JS, Python e SQL. No momento estou fazendo alguns projetos para aprimorar meu conhecimento e estou estudando Java, <samp>
 
 
 
