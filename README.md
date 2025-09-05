@@ -3,11 +3,11 @@
     <samp>
       <p float="left">
 
-<samp> Estudo ciência da computação, sou apaixonada pela área de cloud(ando estudando um pouco para tentar obter certificações e entrar para a área), mexo atualmente com JS, Python e SQL. No momento estou fazendo alguns projetos para aprimorar meu conhecimento e estou estudando Java. <samp>
+<samp> Sou graduanda em ciencia da computação, comecei com a programação em 2024 aprendendo sozinha, a áreea que eu pretendo entrar é cloud e arquitetura de softwares, atualmente tenho mais facilidade com JavaScript, Python e SQL. No momento estou fazendo alguns projetos para aprimorar meu conhecimento e estou estudando Java. <samp>
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelobwp&theme=catppuccin_latte&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelobwp&theme=catppuccin_latte&show_icons=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicelobwp&theme=catppuccin_latte&hide_progress=true)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#ec5c8d&color:1)](https://www.linkedin.com/in/mariah-alice-pereira-b994ba327/)
