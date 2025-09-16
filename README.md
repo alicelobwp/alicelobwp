@@ -3,7 +3,7 @@
     <samp>
       <p float="left">
 
-<samp> Sou graduanda em ciencia da computação, comecei com a programação em 2024 aprendendo sozinha, a áreea que eu pretendo entrar é cloud e arquitetura de softwares, atualmente tenho mais facilidade com JavaScript, Python e SQL. No momento estou fazendo alguns projetos para aprimorar meu conhecimento e estou estudando Java. <samp>
+<samp> Sou graduanda em ciencia da computação, comecei com a programação em 2024 aprendendo sozinha, sou aspirante a aarquitetura de nuvem e softwares, atualmente tenho mais facilidade com JavaScript, Python e SQL. No momento estou fazendo alguns projetos para aprimorar meu conhecimento e estou estudando Java. <samp>
 
 
 
