@@ -8,7 +8,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelobwp&theme=catppuccin_latte&show_icons=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicelobwp&theme=catppuccin_latte&hide_progress=true)
+
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#ec5c8d&color:1)](https://www.linkedin.com/in/mariah-alice-pereira-b994ba327/)
 [![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=#ec5c8d&color:1)](loboalicepereira@gmail.com)
