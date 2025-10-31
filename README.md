@@ -1,9 +1,9 @@
 <p float="left">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A0F8F8&random=false&width=499&height=40&lines=Oie%2F+me+chamo+Mariah+Alice" alt="Typing SVG" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A0F8F8&random=false&width=499&height=40&lines=Hi!+I'm+Mariah+Alice" alt="Typing SVG" />
     <samp>
       <p float="left">
 
-<samp> Sou graduanda em ciencia da computação, sou aspirante a arquitetura de nuvem e softwares, atualmente tenho mais facilidade com JavaScript, Python e SQL. No momento estou fazendo alguns projetos para aprimorar meu conhecimento, mediante as linguagens citadas, e estou estudando Java. <samp>
+<samp> At the moment, I'm in comp sci bachelor's degree. My current languages are C#, SQL, JavaScript nd Python. I'm interest about software architecture and Backend development. Rn, I'm learning Java and producering some projects to improve my knowledge <samp>
 
 
 
