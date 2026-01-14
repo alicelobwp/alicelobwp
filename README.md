@@ -3,12 +3,7 @@
     <samp>
       <p float="left">
 
-<samp> At the moment, I'm in comp sci bachelor's degree. My current languages are C#, SQL, JavaScript nd Python. I'm interest about software architecture and Backend development. Rn, I'm learning Java and producering some projects to improve my knowledge <samp>
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelobwp&theme=catppuccin_latte&show_icons=true)<br>
-
+<samp> At the moment, I'm in Computer Science bachelor's degree and I'm currently working for 99/DiDi as an Cx Intelligence Intern. My current languages are Java, SQL, JavaScript nd Python. I'm interest about Data Security and Backend Development. Rn, I'm and producering some projects to improve my knowledge in my current languages <samp>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=#ec5c8d&color:1)](https://www.linkedin.com/in/mariah-alice-pereira-b994ba327/)
 [![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=#ec5c8d&color:1)](loboalicepereira@gmail.com)
